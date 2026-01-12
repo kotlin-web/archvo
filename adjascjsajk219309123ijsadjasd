@@ -15,12 +15,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png"group-title="MEXICO",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1   group-title="TV1", PARAMOUNT
-http://38.49.128.38:8000/play/a0cs/index.m3u8
-#EXTINF:-1   group-title="TV1", PX SPORTS
-http://38.49.128.38:8000/play/a0ku/index.m3u8
-#EXTINF:-1   group-title="TV1", RT
-http://38.49.128.38:8000/play/a0nk/index.m3u8
 #EXTINF:-1   group-title="TV1", SPACE
 http://38.49.128.38:8000/play/a0cg/index.m3u8
 #EXTINF:-1   group-title="TV1", SYFY
