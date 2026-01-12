@@ -33,6 +33,24 @@ http://38.49.128.38:8000/play/a0jj/index.m3u8
 http://38.49.128.38:8000/play/a0ji/index.m3u8
 #EXTINF:-1   group-title="TV1", HBO XTREME
 http://38.49.128.38:8000/play/a096/index.m3u8
+#EXTINF:-1   group-title="TV1",  TNT SERIES
+http://38.49.128.38:8000/play/a0da/index.m3u8
+#EXTINF:-1   group-title="TV1",  HBO
+http://38.49.128.38:8000/play/a0c5/index.m3u8
+#EXTINF:-1   group-title="TV1",  HBO +
+http://38.49.128.38:8000/play/a0cv/index.m3u8
+#EXTINF:-1   group-title="TV1",  DICOVERY CHANNEL
+http://38.49.128.38:8000/play/a0ep/index.m3u8
+#EXTINF:-1   group-title="TV1",  DISCOVERY TURBO
+http://38.49.128.38:8000/play/a0c4/index.m3u8
+#EXTINF:-1   group-title="TV1",  DISNEY JR
+http://38.49.128.38:8000/play/a0bz/index.m3u8
+#EXTINF:-1   group-title="TV1", EDGE
+http://38.49.128.38:8000/play/a0nh/index.m3u8
+#EXTINF:-1   group-title="TV1",  A&E
+http://38.49.128.38:8000/play/a0bv/index.m3u8
+#EXTINF:-1   group-title="TV1",  A3 SERIES
+http://38.49.128.38:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png"group-title="MEXICO",AZ CLIC HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Multimedios_Estrellas_de_Oro_%281991_Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210721224718"group-title="MEXICO",MULTIMEDIOS MONTERREY
