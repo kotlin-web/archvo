@@ -15,14 +15,24 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png"group-title="MEXICO",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1   group-title="TV1", SPACE
-http://38.49.128.38:8000/play/a0cg/index.m3u8
-#EXTINF:-1   group-title="TV1", SYFY
-http://38.49.128.38:8000/play/a0b1/index.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 1 HD 
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 2 HD
 https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
+#EXTINF:-1   group-title="TV1", SPACE
+http://38.49.128.38:8000/play/a0cg/index.m3u8
+#EXTINF:-1   group-title="TV1", SYFY
+http://38.49.128.38:8000/play/a0b1/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO 2
+http://38.49.128.38:8000/play/a0ct/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO FAMILY
+http://38.49.128.38:8000/play/a0cu/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO MUNDI
+http://38.49.128.38:8000/play/a0jj/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO SIGNATURE
+http://38.49.128.38:8000/play/a0ji/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO XTREME
+http://38.49.128.38:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png"group-title="MEXICO",AZ CLIC HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Multimedios_Estrellas_de_Oro_%281991_Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210721224718"group-title="MEXICO",MULTIMEDIOS MONTERREY
